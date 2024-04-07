@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Randell Mwania! 👋🏽<br><br>I'm a 23-year-old data scientist based in Kenya, and I'm passionate about unraveling insights from data.<br>✨ Fun Facts<br>My favorite dataset is as intricate as a well-written code.<br>I dreamt of exploring space.<br><br>📫 Contact<br>For a quick data discussion, DM me on Instagram or connect with me on LinkedIn. Let's make data science a thrilling adventure!
+Hey there, I'm Randell Mwania! 👋🏽<br><br>I'm a 23-year-old data scientist based in Kenya, and I'm passionate about unraveling insights from data.<br><br>✨ Fun Facts<br>My favorite dataset is as intricate as a well-written code.<br>I dreamt of exploring space.<br><br>📫 Contact<br>For a quick data discussion, DM me on Instagram or connect with me on LinkedIn. Let's make data science a thrilling adventure!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2k.raymond_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randell-m-865813208/) 
