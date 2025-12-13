@@ -2,7 +2,7 @@
 
 ## 👨‍🔬 About Me
 
-Hello, world! I'm Randell Mwania, a 24-year-old data scientist and IT professional based in Kenya. With a strong foundation in both fields, I'm passionate about leveraging technology and data to drive innovation and solve complex problems.
+Hello, world! I'm Randell Mwania, a data scientist and IT professional based in Kenya. With a strong foundation in both fields, I'm passionate about leveraging technology and data to drive innovation and solve complex problems.
 
 🔍 Currently exploring: Advanced machine learning techniques and their applications in IT infrastructure
 🌱 Learning: Cloud-based big data solutions and cybersecurity in data science
